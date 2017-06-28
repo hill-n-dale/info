@@ -1,14 +1,16 @@
 # Hill N' Dale Apartments
 
-## Features currently implemented on website:
+[Click here to go to the website!](https://spokaneaptwebmaste.wixsite.com/launch)
 
-Website: [click here!](https://spokaneaptwebmaste.wixsite.com/launch)
+## Features currently implemented on website:
  
  * Contact form at the top goes to hillndalespokaneapt@gmail.com
- * Mobile optimized
- * Apply here goes directly to fastrakservice.com.
- * Carousel for Photos
  * Section for Amenities
+ * Google map with location in Spokane
+ * Carousel for Photos
+ * Floor plans displayed and when clicked zoom in
+ * Apply here goes directly to fastrakservice.com.
+ * Mobile optimized
 
 ## Questions
 
