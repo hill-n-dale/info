@@ -2,10 +2,9 @@
 
 ## Features currently implemented on website:
 
-URL: [https://spokaneaptwebmaste.wixsite.com/launch](https://spokaneaptwebmaste.wixsite.com/launch)
+Website: [click here!](https://spokaneaptwebmaste.wixsite.com/launch)
  
  * Contact form at the top goes to hillndalespokaneapt@gmail.com
- * 
  * Mobile optimized
  * Apply here goes directly to fastrakservice.com.
  * Carousel for Photos
@@ -19,6 +18,11 @@ URL: [https://spokaneaptwebmaste.wixsite.com/launch](https://spokaneaptwebmaste.
 * What web domain do you want to use?
 * Discuss Copy and Images needed
 
+## Still to do:
+
+* Gather and update all content from `Content needed` section
+* Buy a domain name
+* Upgrade wix site to be paid ($4/month with 2 years) 
 
 ## Content needed
 
@@ -61,6 +65,6 @@ URL: [https://spokaneaptwebmaste.wixsite.com/launch](https://spokaneaptwebmaste.
 ## Hours worked:
 
  June 27th, 2017
- * 9:00 pm
+ * 9:00 pm - 11:00pm
 
 
