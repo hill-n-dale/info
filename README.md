@@ -44,21 +44,13 @@
 ### Images
 
 * Background for front splash page
-* (We could potentially do an aerial shot of spokane washington)
+  * (We could potentially do an aerial shot of spokane washington)
+  * Otherwise would need a high resolution nice looking shot similar to the one we currently have in place.
 * Slideshow slides of interior
 * Floor plans
   * Not sure if we can have "Apartment Guide" content
   * May need to produce this content
 
-## Content on website
-
- * Floor plans
- * contact us
- * Photos of interior
- * Property info
- * Fill out an application
-
- 
 ## Accounts created:
 
  * wix.com
@@ -66,11 +58,5 @@
 
 ## Hours worked:
 
- June 27th, 2017
-* 9:00 pm - 11:00pm
-  * Set up github, gmail, wix projects
-  * Implemented initial site in wix, uploaded images and set up basic design
-  * Added apply button, google map, amenities, contact form, floor plans
-  
-
+* See HOURS_WORKED.md
 
