@@ -10,4 +10,6 @@ September 27th, 2017
 * 9:00 pm - 10:00pm
   * Changed domain, some content.
 
-
+October 10th, 2017
+* 9:45 pm - 10:15 pm
+  * Updated content

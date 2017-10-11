@@ -12,10 +12,11 @@
 
 * [x] Upgrade wix site to be paid ($7/month with 2 years) 
 * [ ] Photoshop floor plan images
-* [ ] Gather and update all content from `Content needed` section
+* [x] Gather and update all content from `Content needed` section
 * [ ] Update favicon
 * [ ] Update Google SEO stuff on wix.
 * [ ] Hand off all passwords to Davis
+* [ ] Update the email address for the office manager
 
 ## Content needed
 
@@ -23,13 +24,13 @@
 
 * [ ] "Contact us to get the best offer from our agents"
 * [ ] "Contact our Leasing Office!"
-* [ ] "Located in North Spokane, Washington"
-* [ ] "Call us Toll Free"
-* [ ] "Luxury Apartments"
-* [ ] Paragraph under Property Info
-* [ ] Bullet points for "More Details"
+* [x] "Located in North Spokane, Washington"
+* [x] "Call us Toll Free"
+* [x] "Luxury Apartments"
+* [x] Paragraph under Property Info
+* [x] Bullet points for "More Details"
 * [ ] All of the floor plan titles and block text
-* [ ] Footer "About HnD", and block of content below.
+* [x] Footer "About HnD", and block of content below.
 * [ ] "Apply here", "Your New Home Awaits"
 
 ### Images
