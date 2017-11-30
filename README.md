@@ -2,36 +2,33 @@
 
 [Click here to go to the website!](http://thegrovespokane.com)
 
-## Questions
-
-* What email address do you want to be "contact us" box to communicate with? hillndalespokaneapt@gmail.com?
-* What phone number do you want to use? 509-998-5861?
-* Discuss Copy and Images needed
-
 ## Still to do:
 
 * [x] Upgrade wix site to be paid ($7/month with 2 years) 
-* [ ] Photoshop floor plan images
+* [x] Photoshop floor plan images
 * [x] Gather and update all content from `Content needed` section
-* [ ] Update favicon
-* [ ] Update Google SEO stuff on wix.
+* [x] Update the email address for the office manager
+* [x] Update Google SEO stuff on wix.
+* [x] Update favicon
+* [ ] Get copy for floor plans
+* [ ] Figure out what image to put at the top of the site.
+* [ ] If there are new photos add those to the site.
 * [ ] Hand off all passwords to Davis
-* [ ] Update the email address for the office manager
 
 ## Content needed
 
 ### Copy
 
-* [ ] "Contact us to get the best offer from our agents"
-* [ ] "Contact our Leasing Office!"
+* [x] "Contact us to get the best offer from our agents"
+* [x] "Contact our Leasing Office!"
 * [x] "Located in North Spokane, Washington"
 * [x] "Call us Toll Free"
 * [x] "Luxury Apartments"
 * [x] Paragraph under Property Info
 * [x] Bullet points for "More Details"
-* [ ] All of the floor plan titles and block text
 * [x] Footer "About HnD", and block of content below.
-* [ ] "Apply here", "Your New Home Awaits"
+* [x] "Apply here", "Your New Home Awaits"
+* [ ] All of the floor plan titles and block text
 
 ### Images
 
@@ -49,6 +46,7 @@
  * Floor plans displayed and when clicked zoom in
  * Apply here goes directly to fastrakservice.com.
  * Mobile optimized
+ * SEO Optimized on the homepage a la Wix's wizard. 
 
 ## Accounts created:
 

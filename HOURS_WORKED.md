@@ -11,5 +11,14 @@ September 27th, 2017
   * Changed domain, some content.
 
 October 10th, 2017
-* 9:45 pm - 10:15 pm
+* 9:45 pm - 10:45 pm
   * Updated content
+
+November 29th, 2017
+* 4:30 pm - 6:30 pm
+  * Reactivated Domain
+  * SEO Optimized via wix's wizard
+  * Updated contact information
+  * Removed watermark from images
+  * Added a favicon (G)
+  * Emailed davis with next steps.
