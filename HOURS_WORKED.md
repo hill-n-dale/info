@@ -22,3 +22,11 @@ November 29th, 2017
   * Removed watermark from images
   * Added a favicon (G)
   * Emailed davis with next steps.
+
+December 5th, 2017
+* 9:00 pm - 9:15 pm
+  * Removed text
+  * Updated email address
+  * Updated copy
+
+
