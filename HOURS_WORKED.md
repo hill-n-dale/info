@@ -30,3 +30,9 @@ December 5th, 2017
   * Updated copy
 
 
+----------------- Bill paid.
+
+
+July 2nd.
+* 7:00am-8:00am.
+  * Updated photos, phone, email details.
