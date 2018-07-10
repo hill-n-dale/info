@@ -36,3 +36,7 @@ December 5th, 2017
 July 2nd.
 * 7:00am-8:00am.
   * Updated photos, phone, email details.
+
+July 10th
+* 1:00pm-2:00pm
+  * SEO ranking optimization and publishing to google.
